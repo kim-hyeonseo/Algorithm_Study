@@ -49,7 +49,7 @@
         1. <a href="https://www.acmicpc.net/problem/18870">좌표 압축</a><br/>
         2. <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&">Ladder1</a><br/>
         3. <a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a><br/>
-        4. <a href="https://leetcode.com/problems/find-k-pairs-with-smallest-sums/">Find K Pairs with Smallest Sums</a><br/> 
+        4. <a href="https://leetcode.com/problems/sum-of-digits-in-base-k/">Sum of Digits in Base K</a><br/> 
         5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
