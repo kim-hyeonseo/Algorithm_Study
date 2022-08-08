@@ -20,7 +20,7 @@
     - [이은혁](https://github.com/itmakesmesoft)</br>
     - [김유나](https://github.com/yuna872)</br>
     - [최종욱]()</br>
-    - [류한일]()</br>
+    - [류한일](https://github.com/cooopang)</br>
     - [양가영]()</br>
 
 - **B조**
@@ -64,7 +64,7 @@
         2. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a><br/>
         3. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/>
         4. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
-        5. <a href="#">문제 이름</a><br/>
+        5. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째 수</a><br/>
         </td>
         <td>
         + <a href="#">선택 문제</a>
