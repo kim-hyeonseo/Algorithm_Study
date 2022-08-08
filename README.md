@@ -62,8 +62,8 @@
         <td>
         1. <a href="https://www.acmicpc.net/problem/4344">평균은 넘겠지</a><br/>
         2. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a><br/>
-        3. <a href="#">문제 이름</a><br/>
-        4. <a href="#">문제 이름</a><br/>
+        3. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/>
+        4. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
         5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
