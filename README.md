@@ -50,7 +50,7 @@
         2. <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&">Ladder1</a><br/>
         3. <a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a><br/>
         4. <a href="https://leetcode.com/problems/sum-of-digits-in-base-k/">Sum of Digits in Base K</a><br/> 
-        5. <a href="#">문제 이름</a><br/>
+        5. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째 수</a><br/>
         </td>
         <td>
         + <a href="#">선택 문제</a>
@@ -64,7 +64,7 @@
         2. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a><br/>
         3. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/>
         4. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
-        5. <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째 수</a><br/>
+        5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
         + <a href="#">선택 문제</a>
