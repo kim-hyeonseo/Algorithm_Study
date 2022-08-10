@@ -1,4 +1,6 @@
-public class Main{
+import java.util.Scanner;
+
+public class 백준_1712_손익분기점 {
     public static void main(String[] args) {
         // 백준 1712 _ 손익분기점
 
